@@ -1,6 +1,6 @@
 # Codenception.PostmanArchitecture
 
-C# + Functional Programming architecture pattern
+C# + Functional Programming software architecture pattern
 
 🚧 Work in progress. It can't be used yet! 🚧
 
